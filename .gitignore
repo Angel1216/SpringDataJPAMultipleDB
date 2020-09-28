@@ -1,0 +1,57 @@
+HELP.md
+mssqserver/HELP.md
+mssqserverJPARepo/HELP.md
+mssqserverJPARepoMultipleDB/HELP.md
+target/
+mssqserver/target/
+mssqserverJPARepo/target/
+mssqserverJPARepoMultipleDB/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+mssqserver/.classpath
+mssqserverJPARepo/.classpath
+mssqserverJPARepoMultipleDB/.classpath
+.factorypath
+.project
+mssqserver/.project
+mssqserverJPARepo/.project
+mssqserverJPARepoMultipleDB/.project
+.settings
+mssqserver/.settings
+mssqserverJPARepo/.settings
+mssqserverJPARepoMultipleDB/.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Otros ###
+mssqserver/mvnw
+mssqserverJPARepo/mvnw
+mssqserverJPARepoMultipleDB/mvnw
+
+mssqserver/mvnw.cmd
+mssqserverJPARepo/mvnw.cmd
+mssqserverJPARepoMultipleDB/mvnw.cmd
